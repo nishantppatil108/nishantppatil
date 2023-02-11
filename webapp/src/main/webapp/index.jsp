@@ -2,4 +2,3 @@
 <h2> Deploying on a kubernetes using ansible for Valaxy Technologies </h2>
 <h2> Glad to see you here </h2>
 <h2> Deploying on a VM </h2>
-<h1> Finally the course is successfully completed </h1>
