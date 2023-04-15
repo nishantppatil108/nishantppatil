@@ -7,7 +7,7 @@
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
 
-    <label for="mobile"><b>Mobile number</b></label>
+    <label for="mobile"><b>Mobile number Added again</b></label>
     <input type="text" placeholder="Enter Mobile number" name="mobile" id="mobile" required>
     
     <label for="psw"><b>Password</b></label>
