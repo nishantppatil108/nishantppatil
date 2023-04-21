@@ -2,7 +2,7 @@
   <div class="container">
     <h1>Finally I completed Kubernetes in CICD Pipeline</h1>
     <h1>Finaly I completed Kubernetes in CICD Pipeline</h1>
-    <h1>mail send</h1>
+    <h1>mail send new</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
